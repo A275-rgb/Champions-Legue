@@ -51,21 +51,6 @@ Este estudo inicial possibilita compreender melhor os dados e preparar o terreno
 
 ---
 
-## Como usar
 
-Coloque a pasta `imagens_readme` na raiz do repositório para que os gráficos apareçam corretamente no README.
 
----
 
-Qualquer dúvida ou sugestão, fique à vontade para abrir uma issue!
-
----
-
-*Projeto desenvolvido por [Seu Nome]*
-"""
-
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(conteudo_readme)
-
-path

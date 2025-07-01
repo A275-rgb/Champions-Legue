@@ -32,7 +32,7 @@ Observamos que a avaliação dos jogadores segue uma distribuição que pode ser
 
 ## 4. Análise dos Gols
 
-![Boxplot de Gols]![image](https://github.com/user-attachments/assets/edc7da09-cc7a-4c15-b2a7-65b509a1d71e)
+!![image](https://github.com/user-attachments/assets/edc7da09-cc7a-4c15-b2a7-65b509a1d71e)
 
 
 O boxplot dos gols mostra a distribuição dos valores, permitindo identificar possíveis outliers e entender o comportamento da variável.
